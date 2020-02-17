@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ATMSModelStoreContainer" CdmEntityContainer="ATMSEntities">
+    <EntitySetMapping Name="tbl_programme">
+      <EntityTypeMapping TypeName="ATMSModel.tbl_programme">
+        <MappingFragment StoreEntitySet="tbl_programme">
+          <ScalarProperty Name="ProgrammeID" ColumnName="ProgrammeID" />
+          <ScalarProperty Name="ProgrammeName" ColumnName="ProgrammeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

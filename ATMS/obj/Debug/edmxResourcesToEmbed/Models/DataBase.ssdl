@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ATMSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_programme">
+    <Key>
+      <PropertyRef Name="ProgrammeID" />
+    </Key>
+    <Property Name="ProgrammeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProgrammeName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ATMSModelStoreContainer">
+    <EntitySet Name="tbl_programme" EntityType="Self.tbl_programme" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

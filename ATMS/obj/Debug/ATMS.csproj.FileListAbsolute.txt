@@ -1,0 +1,16 @@
+D:\ATMS\ATMS\ATMS\bin\ATMS.dll.config
+D:\ATMS\ATMS\ATMS\bin\ATMS.dll
+D:\ATMS\ATMS\ATMS\bin\ATMS.pdb
+D:\ATMS\ATMS\ATMS\obj\Debug\ATMS.dll
+D:\ATMS\ATMS\ATMS\obj\Debug\ATMS.pdb
+D:\ATMS\ATMS\ATMS\obj\Debug\ATMS.csprojResolveAssemblyReference.cache
+E:\ATMS\ATMS\ATMS\bin\ATMS.dll.config
+E:\ATMS\ATMS\ATMS\bin\ATMS.dll
+E:\ATMS\ATMS\ATMS\bin\ATMS.pdb
+E:\ATMS\ATMS\ATMS\obj\Debug\ATMS.csprojResolveAssemblyReference.cache
+E:\ATMS\ATMS\ATMS\obj\Debug\ATMS.dll
+E:\ATMS\ATMS\ATMS\obj\Debug\ATMS.pdb
+E:\ATMS\ATMS\ATMS\bin\EntityFramework.dll
+E:\ATMS\ATMS\ATMS\bin\EntityFramework.SqlServer.dll
+E:\ATMS\ATMS\ATMS\bin\EntityFramework.xml
+E:\ATMS\ATMS\ATMS\bin\EntityFramework.SqlServer.xml
